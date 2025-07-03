@@ -1,0 +1,17 @@
+[
+  {
+    "pergunta": "Qual a capital do Brasil?",
+    "opcoes": ["São Paulo", "Brasília", "Rio de Janeiro", "Salvador"],
+    "resposta": "Brasília"
+  },
+  {
+    "pergunta": "Qual o maior planeta do Sistema Solar?",
+    "opcoes": ["Terra", "Júpiter", "Marte", "Saturno"],
+    "resposta": "Júpiter"
+  },
+  {
+    "pergunta": "Quanto é 3 x 3?",
+    "opcoes": ["6", "9", "12", "3"],
+    "resposta": "9"
+  }
+]
